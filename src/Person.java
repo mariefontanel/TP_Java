@@ -45,10 +45,10 @@ public class Person {
 
     /**
      *
-     * @return a string + the firstname
+     * @return
      */
-    public String toString() {
+    /*public String toString() {
         return "Et alors ? " + getFirstname();
-    }
+    }*/
 
 }
